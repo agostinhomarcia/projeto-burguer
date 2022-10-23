@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://media.giphy.com/media/qIfE19tVQMWn23mLBf/giphy.gif" alt="Burguer" width="250"/>
+   <img src="https://media.giphy.com/media/oNS5wP6Csop5hjfK2k/giphy.gif" alt="Burguer" width="250"/>
 </p>
 
 <p align="right">
@@ -50,7 +50,7 @@
 <h4 align="center">Caprices and Blots Stationery </h4>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/Tebt6bzND3h6NsDHlM/giphy.gif" alt="Burguer" width="650"/>
+   <img src="https://media.giphy.com/media/Tebt6bzND3h6NsDHlM/giphy.gif" alt="Burguer" width="690"/>
 </p>
 
 
