@@ -81,7 +81,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/agostinhomarcia/projeto-burguer.git
 # Access
 $ cd projeto-burguer
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://127.0.0.1:5500/index.html>
 ```
 
 
